@@ -17,7 +17,7 @@ This pipeline follows an ETL-like workflow and can be extended to integrate real
 
 ## Data Pipeline
 
-<img src="images/pipeline-diagram.png" width="900">
+![Pipeline Diagram](images/pipeline-diagram.png)
 
 ## Technologies
 
