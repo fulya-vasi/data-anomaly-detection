@@ -1,4 +1,10 @@
-.venv/
+# Data files
+data/*.csv
+data/*.db
+
+# Mac
+.DS_Store
+
+# Python
 __pycache__/
 *.pyc
-
